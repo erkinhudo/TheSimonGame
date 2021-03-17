@@ -9,3 +9,7 @@ function nextSequence(){ //2.1 step
     var randomChosenColour = buttonColours[nextSequence()]; // 2.4 step
     gamePattern.push(randomChosenColour);
 };
+ 
+
+
+// Step3 will continue
